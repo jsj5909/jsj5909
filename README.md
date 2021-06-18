@@ -1,5 +1,5 @@
 Hello,
-I'm Jon and I'm a Unity software developer interested in Unity, Software Engineering, and Computer Science in General.
+I'm Jon and I'm a Unity Developer interested in Unity, Software Engineering, and Computer Science in general.
 
 Check out my website at jonsjenkins.com
 

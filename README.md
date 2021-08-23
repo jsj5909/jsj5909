@@ -1,7 +1,6 @@
 Hello,
 I'm Jon and I'm a Unity Developer interested in Unity, Software Engineering, Computer Graphics, and Computer Science in general.
 
-Check out my website at jonsjenkins.com
 
 <!---
 jsj5909/jsj5909 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
